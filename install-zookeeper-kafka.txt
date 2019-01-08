@@ -1,0 +1,4 @@
+
+Go to this website for installation of zookeeper and kafka on your local machine:
+
+https://dzone.com/articles/running-apache-kafka-on-windows-os
